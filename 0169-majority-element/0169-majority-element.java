@@ -15,16 +15,6 @@ class Solution {
                 count--;
             }
         }
-        count=0;
-        for(int i=0; i<nums.length; i++){
-            if(nums[i]==val){
-                count++;
-            }
-        }
-
-        if(count>(nums.length/2)){
-            return val;
-        }
-        return -1;
+        return val;
     }
 }
