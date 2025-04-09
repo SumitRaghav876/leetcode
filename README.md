@@ -7,6 +7,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SumitRaghav876/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/SumitRaghav876/leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/SumitRaghav876/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
