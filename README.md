@@ -14,6 +14,7 @@ Leetcode practice questions
 | ------- |
 | [0001-two-sum](https://github.com/SumitRaghav876/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/SumitRaghav876/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SumitRaghav876/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -35,8 +36,10 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SumitRaghav876/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SumitRaghav876/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SumitRaghav876/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SumitRaghav876/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
