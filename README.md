@@ -57,6 +57,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SumitRaghav876/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitRaghav876/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -68,8 +69,13 @@ Leetcode practice questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitRaghav876/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/SumitRaghav876/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitRaghav876/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitRaghav876/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitRaghav876/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitRaghav876/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
