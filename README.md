@@ -67,6 +67,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitRaghav876/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/SumitRaghav876/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SumitRaghav876/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitRaghav876/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitRaghav876/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -78,4 +79,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitRaghav876/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SumitRaghav876/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
