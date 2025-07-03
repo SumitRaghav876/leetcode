@@ -11,6 +11,7 @@ Leetcode practice questions
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SumitRaghav876/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/SumitRaghav876/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SumitRaghav876/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ Leetcode practice questions
 | [0151-reverse-words-in-a-string](https://github.com/SumitRaghav876/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SumitRaghav876/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/SumitRaghav876/leetcode/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
