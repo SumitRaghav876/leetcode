@@ -8,6 +8,7 @@ Leetcode practice questions
 | ------- |
 | [0001-two-sum](https://github.com/SumitRaghav876/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SumitRaghav876/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SumitRaghav876/leetcode/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SumitRaghav876/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +119,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
