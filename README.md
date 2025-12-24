@@ -8,6 +8,7 @@ Leetcode practice questions
 | ------- |
 | [0001-two-sum](https://github.com/SumitRaghav876/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SumitRaghav876/leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/SumitRaghav876/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
@@ -26,6 +27,7 @@ Leetcode practice questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SumitRaghav876/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -123,4 +125,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SumitRaghav876/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
