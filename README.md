@@ -9,6 +9,7 @@ Leetcode practice questions
 | [0001-two-sum](https://github.com/SumitRaghav876/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/SumitRaghav876/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SumitRaghav876/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
@@ -91,6 +92,7 @@ Leetcode practice questions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitRaghav876/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
@@ -124,6 +126,7 @@ Leetcode practice questions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
