@@ -12,7 +12,7 @@ class Solution {
         }
 
         int j=0;
-        while(j<n && k<n){
+        while(j<n ){
             if(nums[j]%2 !=0){
                 res[k]=nums[j];
                 k++;
