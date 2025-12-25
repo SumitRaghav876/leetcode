@@ -16,6 +16,7 @@ Leetcode practice questions
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SumitRaghav876/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/SumitRaghav876/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SumitRaghav876/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/SumitRaghav876/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SumitRaghav876/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SumitRaghav876/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -50,6 +51,7 @@ Leetcode practice questions
 | ------- |
 | [0035-search-insert-position](https://github.com/SumitRaghav876/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/SumitRaghav876/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Leetcode practice questions
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SumitRaghav876/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SumitRaghav876/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/SumitRaghav876/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/SumitRaghav876/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SumitRaghav876/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
@@ -147,4 +150,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SumitRaghav876/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SumitRaghav876/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
