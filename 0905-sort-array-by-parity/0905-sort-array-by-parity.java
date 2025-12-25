@@ -11,13 +11,11 @@ class Solution {
             }
         }
 
-        int j=0;
-        while(j<n ){
-            if(nums[j]%2 !=0){
-                res[k]=nums[j];
+        for(int i=0; i<n; i++){
+            if(nums[i]%2 !=0){
+                res[k]=nums[i];
                 k++;
             }
-            j++;
         }
         return res;
     }
