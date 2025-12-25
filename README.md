@@ -19,6 +19,7 @@ Leetcode practice questions
 | [0905-sort-array-by-parity](https://github.com/SumitRaghav876/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SumitRaghav876/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SumitRaghav876/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/SumitRaghav876/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ Leetcode practice questions
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SumitRaghav876/leetcode/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/SumitRaghav876/leetcode/tree/master/0905-sort-array-by-parity) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/SumitRaghav876/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
 | ------- |
@@ -141,4 +143,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SumitRaghav876/leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [3075-maximize-happiness-of-selected-children](https://github.com/SumitRaghav876/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
