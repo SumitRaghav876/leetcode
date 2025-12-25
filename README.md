@@ -135,6 +135,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SumitRaghav876/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/SumitRaghav876/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
@@ -146,6 +147,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SumitRaghav876/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SumitRaghav876/leetcode/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -154,4 +156,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SumitRaghav876/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SumitRaghav876/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
