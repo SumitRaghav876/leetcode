@@ -82,6 +82,7 @@ Leetcode practice questions
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/SumitRaghav876/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SumitRaghav876/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/SumitRaghav876/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitRaghav876/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
@@ -95,6 +96,7 @@ Leetcode practice questions
 | [0014-longest-common-prefix](https://github.com/SumitRaghav876/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SumitRaghav876/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitRaghav876/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/SumitRaghav876/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitRaghav876/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
