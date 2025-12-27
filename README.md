@@ -97,6 +97,7 @@ Leetcode practice questions
 | [0125-valid-palindrome](https://github.com/SumitRaghav876/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitRaghav876/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SumitRaghav876/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/SumitRaghav876/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitRaghav876/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -139,6 +140,7 @@ Leetcode practice questions
 | [0048-rotate-image](https://github.com/SumitRaghav876/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SumitRaghav876/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/SumitRaghav876/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Leetcode practice questions
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SumitRaghav876/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SumitRaghav876/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Bit Manipulation
 |  |
