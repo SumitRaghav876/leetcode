@@ -31,6 +31,7 @@ Leetcode practice questions
 | [0142-linked-list-cycle-ii](https://github.com/SumitRaghav876/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SumitRaghav876/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SumitRaghav876/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Leetcode practice questions
 | ------- |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SumitRaghav876/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SumitRaghav876/leetcode/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/SumitRaghav876/leetcode/tree/master/0905-sort-array-by-parity) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SumitRaghav876/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Counting
@@ -97,6 +99,7 @@ Leetcode practice questions
 | [0014-longest-common-prefix](https://github.com/SumitRaghav876/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SumitRaghav876/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitRaghav876/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/SumitRaghav876/leetcode/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/SumitRaghav876/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SumitRaghav876/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitRaghav876/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
