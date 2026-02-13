@@ -13,6 +13,7 @@ Leetcode practice questions
 | [0053-maximum-subarray](https://github.com/SumitRaghav876/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/SumitRaghav876/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SumitRaghav876/leetcode/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@ Leetcode practice questions
 | ------- |
 | [0001-two-sum](https://github.com/SumitRaghav876/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitRaghav876/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/SumitRaghav876/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SumitRaghav876/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitRaghav876/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
@@ -171,4 +173,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SumitRaghav876/leetcode/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SumitRaghav876/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
