@@ -15,6 +15,7 @@ Leetcode practice questions
 | [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SumitRaghav876/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SumitRaghav876/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/SumitRaghav876/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SumitRaghav876/leetcode/tree/master/0217-contains-duplicate) |
@@ -175,6 +176,7 @@ Leetcode practice questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SumitRaghav876/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/SumitRaghav876/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Combinatorics
 |  |
