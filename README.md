@@ -22,6 +22,7 @@ Leetcode practice questions
 | [0905-sort-array-by-parity](https://github.com/SumitRaghav876/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SumitRaghav876/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SumitRaghav876/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2965-find-missing-and-repeated-values](https://github.com/SumitRaghav876/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SumitRaghav876/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ Leetcode practice questions
 | [0205-isomorphic-strings](https://github.com/SumitRaghav876/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SumitRaghav876/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SumitRaghav876/leetcode/tree/master/0242-valid-anagram) |
+| [2965-find-missing-and-repeated-values](https://github.com/SumitRaghav876/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,12 +151,14 @@ Leetcode practice questions
 | [0062-unique-paths](https://github.com/SumitRaghav876/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/SumitRaghav876/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/SumitRaghav876/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SumitRaghav876/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/SumitRaghav876/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
