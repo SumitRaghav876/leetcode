@@ -14,6 +14,7 @@ Leetcode practice questions
 | [0054-spiral-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/SumitRaghav876/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SumitRaghav876/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SumitRaghav876/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SumitRaghav876/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
@@ -168,6 +169,7 @@ Leetcode practice questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/SumitRaghav876/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SumitRaghav876/leetcode/tree/master/0062-unique-paths) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SumitRaghav876/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
