@@ -13,6 +13,7 @@ Leetcode practice questions
 | [0053-maximum-subarray](https://github.com/SumitRaghav876/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SumitRaghav876/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/SumitRaghav876/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SumitRaghav876/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SumitRaghav876/leetcode/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@ Leetcode practice questions
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SumitRaghav876/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SumitRaghav876/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SumitRaghav876/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SumitRaghav876/leetcode/tree/master/0242-valid-anagram) |
@@ -75,6 +77,7 @@ Leetcode practice questions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SumitRaghav876/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SumitRaghav876/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/SumitRaghav876/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SumitRaghav876/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SumitRaghav876/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitRaghav876/leetcode/tree/master/0142-linked-list-cycle-ii) |
