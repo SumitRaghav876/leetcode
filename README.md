@@ -7,6 +7,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SumitRaghav876/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SumitRaghav876/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SumitRaghav876/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/SumitRaghav876/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/SumitRaghav876/leetcode/tree/master/0048-rotate-image) |
@@ -77,6 +78,7 @@ Leetcode practice questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SumitRaghav876/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SumitRaghav876/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SumitRaghav876/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/SumitRaghav876/leetcode/tree/master/0088-merge-sorted-array) |
@@ -173,6 +175,7 @@ Leetcode practice questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SumitRaghav876/leetcode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/SumitRaghav876/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SumitRaghav876/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Bit Manipulation
