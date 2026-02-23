@@ -1,30 +1,20 @@
 class Solution {
-    public boolean isAlphaNum(char ch) {
-        if ((ch >= '0' && ch <= '9') || (Character.toLowerCase(ch) >= 'a' && Character.toLowerCase(ch) <= 'z')) {
+    public boolean isPalindrome(String s) {
+        String newStr=s.replaceAll("[^a-zA-Z0-9]","").toLowerCase();
+        int i=0;
+        int j=newStr.length()-1;
+
+        if(newStr.length()==0){
             return true;
         }
-        return false;
-    }
-
-    public boolean isPalindrome(String s) {
-        int start = 0, end = s.length() - 1;
-        while (start < end) {
-            if (!isAlphaNum(s.charAt(start))) {
-                start++;
-                continue;
-            }
-            if (!isAlphaNum(s.charAt(end))) {
-                end--;
-                continue;
-            }
-
-            if (Character.toLowerCase(s.charAt(start)) != Character.toLowerCase(s.charAt(end))) {
+        while(i<j){
+            if(newStr.charAt(i)!=newStr.charAt(j)){
                 return false;
             }
-
-            start++;
-            end--;
+            i++;
+            j--;
         }
+
         return true;
     }
 }
