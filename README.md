@@ -135,17 +135,20 @@ Leetcode practice questions
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SumitRaghav876/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SumitRaghav876/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SumitRaghav876/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SumitRaghav876/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SumitRaghav876/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SumitRaghav876/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SumitRaghav876/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SumitRaghav876/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SumitRaghav876/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SumitRaghav876/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SumitRaghav876/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -193,4 +196,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SumitRaghav876/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/SumitRaghav876/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
