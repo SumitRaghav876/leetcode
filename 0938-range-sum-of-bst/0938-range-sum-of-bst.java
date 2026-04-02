@@ -25,11 +25,10 @@ class Solution {
             sum += rangeSumBST(root.left, low, high);   
             sum += rangeSumBST(root.right, low, high);
         }
-        if(low>root.val && high>root.val){
+        else if(root.val<low){
             sum+=rangeSumBST(root.right,low,high);
         }
-
-        if(low<root.val && high<root.val){
+        else{
             sum+=rangeSumBST(root.left,low,high);
         }
 
